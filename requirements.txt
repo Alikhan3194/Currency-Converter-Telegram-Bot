@@ -1,0 +1,5 @@
+telebot
+requests
+matplotlib
+python-dotenv
+currencyconverter 
